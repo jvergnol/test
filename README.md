@@ -2,20 +2,16 @@
 
 _Pequeño proyecto que cuenta con un Login y un datatable_
 
-## Comenzando 🚀
-
-_Clonar o descargar el proyecto mediante git clone_
-
 
 ### Componentes utilizados 📋
 
 ```
-_coreui_
-_sweetalert2_
-_sweetalert2-react-content_
-_axios_
-_mdbreact_
-_moment_
+coreui
+sweetalert2
+sweetalert2-react-content
+axios
+mdbreact
+moment
 
 ```
 
