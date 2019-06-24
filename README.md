@@ -22,7 +22,7 @@ moment
 $ git clone https://github.com/jvergnol/test.git
 
 # go into app's directory
-$ cd my-project
+$ cd test
 
 # install app's dependencies
 $ npm install
